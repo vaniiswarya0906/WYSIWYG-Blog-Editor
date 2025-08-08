@@ -20,3 +20,7 @@ A professional **WYSIWYG (What You See Is What You Get) Blog Editor** built with
 ```bash
 git clone  https://github.com/vaniiswarya0906/WYSIWYG-Blog-Editor.git
 cd wysiwyg-blog-editor
+---
+## 📸 Screenshot
+
+![Editor Screenshot](screenshot.png)
