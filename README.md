@@ -15,7 +15,7 @@ A professional **WYSIWYG (What You See Is What You Get) Blog Editor** built with
 ---
 
 ## 📸 Screenshot
-> _Replace with your actual screenshot after running the app_
+
 
 ![Editor Screenshot](screenshot.png)
 
